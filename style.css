@@ -1,3 +1,35 @@
+h1 {
+	font-family: Palatino, 'Palatino Linotype', serif;
+  font-size: 32px;
+}
+
+h3 {
+	font-family: Palatino, 'Palatino Linotype', serif;
+  font-size: 24px;
+  color:#2e69a3;
+}
+
+h4 {
+	font-family: Palatino, 'Palatino Linotype', serif;
+  font-size: 20px;
+}
+
+h5 {
+	font-family: Palatino, 'Palatino Linotype', serif;
+  font-size: 17px;
+}
+
+h6 {
+	font-family: Palatino, 'Palatino Linotype', serif;
+  font-size: 14px;
+}
+
 p {
-  color: grey;
+  font-family: 'Trebuchet MS', Helvetica, sans-serif;
+  color: Chocolate;
+}
+
+.content {
+	padding: 250px 0;
+	margin: 30px;
 }
