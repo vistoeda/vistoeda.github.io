@@ -29,7 +29,16 @@ p {
   color: Chocolate;
 }
 
+ul {
+	font-size: 14px;
+	font-family: 'Trebuchet MS', Helvetica, sans-serif;
+  color: Chocolate;
+	}
+	
 .content {
-	padding: 250px 0;
+	padding: 200px 0;
 	margin: 30px;
+	background-image: url(https://images.app.goo.gl/VFZfM4ZyLr5xZA5V8);
 }
+
+
